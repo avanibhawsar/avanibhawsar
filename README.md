@@ -17,7 +17,7 @@
 - 📨Reach out via email: **avanibhawsar2003@gmail.com**
 
 
-- 📄 RESUME [file:///C:/Users/ashis/OneDrive/Desktop/Avani/Avani/avani%20resume.pdf)
+- 📄 RESUME [
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
