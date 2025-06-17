@@ -17,7 +17,7 @@
 - 📨Reach out via email: **avanibhawsar2003@gmail.com**
 
 
-- 📄 RESUME [https://drive.google.com/file/d/1Gl5TN1SaSpTRI7IONF4lMJzahBtuY4cf/view?usp=sharing](https://drive.google.com/file/d/1Gl5TN1SaSpTRI7IONF4lMJzahBtuY4cf/view?usp=sharing)
+- 📄 RESUME [file:///C:/Users/ashis/OneDrive/Desktop/Avani/Avani/avani%20resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
