@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhaypatidar-0827cs221010" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="avani-bhawsar-484b78292" height="80" width="80" /></a>
+<a href="https://linkedin.com/in/avani-bhawsar-484b78292" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="avani-bhawsar-484b78292" height="80" width="80" /></a>
 <a href="https://www.leetcode.com/AvaniiB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AvaniiiB" height="60" width="60" /></a>
 </p>
 <div style="display: flex; align-items: center;">
@@ -70,12 +70,12 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaypatidar3" alt="abhaypatidar3" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avanibhawsar" alt="avanibhawsar" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaypatidar3&show_icons=true&locale=en&layout=compact" alt="abhaypatidar3" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avanibhawsar&show_icons=true&locale=en&layout=compact" alt="avanibhawsar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaypatidar3&show_icons=true&locale=en" alt="abhaypatidar3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avanibhawsar&show_icons=true&locale=en" alt="avanibhawsar" /></p>
 
 <img align="right" alt="coding" width="200" height="200" src="extra.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaypatidar3&" alt="abhaypatidar3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avanibhawsar&" alt="avanibhawsar" /></p>
